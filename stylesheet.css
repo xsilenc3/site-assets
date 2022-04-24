@@ -1,0 +1,107 @@
+/* Class Styling */
+
+.header {
+	background-color: #000000;
+	border: 3px solid blue;
+	border-width: 25%;
+	color: #FFFFFF;
+	font-size: 12px;
+	margin-left: 25%;
+	margin-right: 25%;
+	padding: 1px;
+	position: relative;
+	text-align: center;
+	width: 50%;
+}
+
+.sidebar {
+	background-color: #4030ec;
+	height: 100%;
+	left: 0;
+	overflow-x: hidden;
+	padding-top: 20px;
+	position: fixed;
+	top: 0;
+	width: 170px;
+	z-index: 1;
+}
+
+.sidebar a {
+	color: #FFFFFF;
+	display: block;
+	font-size: 9px;
+	margin: 0px;
+	padding: 6px 8px 6px 16px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.box {
+	background-color: #000000;
+	border: 3px solid blue;
+	border-width: 25%;
+	color: #FFFFFF;
+	font-size: 12px;
+	margin-left: 25%;
+	margin-right: 25%;
+	padding: 1px;
+	position: relative;
+	text-align: center;
+	width: 50%;
+}
+
+/* ID Styling */
+
+#button {
+	height: 30px;
+	width: 72px;
+	padding: 3px;
+}
+
+#beavis, #compy, #friends, #keys {
+	height: 50%;
+	width: 50%;
+}
+
+#dance {
+	height: 350px;
+	width: 150px;
+}
+
+#gir {
+	height: 300px;
+	width: 200px;
+}
+
+/* Element Styling */
+
+body {
+	background-attachment: fixed;
+	background-image: url("assets/cheech.gif");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font: 1.3rem Inconsolata, monospace;
+}
+
+img {
+	height: 100%;
+	width: 100%;
+}
+
+h1 {
+	font-size: 20px;
+	text-shadow: -2px 1px #333333;
+}
+
+h2 {
+	color: #FFFFFF;
+	font-size: 12px;
+	margin: 0px;
+	text-align: center;
+	text-shadow: -2px 1px #333333;
+}
+
+p {
+	margin: 0px;
+}
