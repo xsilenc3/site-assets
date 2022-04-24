@@ -1,0 +1,1 @@
+I use this directory to reference all non-HTML/CSS elements in my HTML. These will all mostly just be images and such, no code cause well... it's a static site, I don't think I need JavaScript for that man.
